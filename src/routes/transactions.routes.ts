@@ -11,9 +11,7 @@ transactionsRouter.get('/', async (request, response) => {
   // TODO
 });
 
-transactionsRouter.post('/', async (request, response) => {
-  // TODO
-});
+transactionsRouter.post('/', async (request, response) => {});
 
 transactionsRouter.delete('/:id', async (request, response) => {
   // TODO
